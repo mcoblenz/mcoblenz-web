@@ -2,11 +2,15 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 ---
 
-<div class="projects grid">
+<a href="http://www.obsidian-lang.com">Obsidian</a> is a new programming language for blockchain smart contracts. I used user-centered design to integrate strong static safety features while maintaining usability.
+
+<a href="http://glacier.coblenz.us">Glacier</a> is an extension to Java that supports transitive class immutability. I <a href="https://ieeexplore.ieee.org/abstract/document/7985688/">showed</a> that Glacier can be used easily by Java programmers to detect accidental mutation of immutable structures.
+
+<!-- <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
   {% for project in sorted_projects %}
@@ -44,4 +48,4 @@ nav: true
   </div>
 {% endfor %}
 
-</div>
+</div> -->

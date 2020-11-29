@@ -60,6 +60,9 @@
       {% if entry.year %}
         {{entry.year}}
       {% endif %}
+      {% if entry.note %}
+      {{entry.note}}
+      {% endif %}
       </div>
     {% endif %}
 
@@ -69,6 +72,12 @@
     {% endif %}
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    {% endif %}
+    {% if entry.acm %}
+    <a href="{{ entry.acm }}" class="btn btn-sm z-depth-0" role="button" target="_blank">ACM DL</a>
+    {% endif %}
+    {% if entry.ieee %}
+    <a href="{{ entry.ieee }}" class="btn btn-sm z-depth-0" role="button" target="_blank">IEEE Xplore</a>
     {% endif %}
     {% if entry.html %}
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
@@ -110,6 +119,9 @@
     {% if entry.website %}
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
     {% endif %}
+    {% if entry.demo %}
+    <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Demo</a>
+  {% endif %}
     </div>
 
     <!-- Hidden abstract block -->
