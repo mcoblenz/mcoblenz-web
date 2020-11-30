@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-### CMSC388W: Special Topics in Computer Science: Usability of Programming Languages
+### CMSC388W: Special Topics in Computer Science: Usability of Programming Languages, Spring 2021
 
 Which is better: Python or Java? Is using a strongly typed language worth the hassle? Is it true that dynamically-typed languages are better for prototyping work, whereas statically-typed languages are better for deployed software? These questions all relate to the relationships between languages and people.
 

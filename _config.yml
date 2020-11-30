@@ -129,6 +129,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
+  relative: "publications/"
   bibliography: papers.bib
   bibliography_template: bib
 
