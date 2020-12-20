@@ -17,3 +17,5 @@ In this special course, we will study how to *design* and *evaluate* the *usabil
 This course is just the beginning. After taking the course, you might want to do your own language design and research projects, potentially leading to publication! I am looking for students to work with over the summer, and taking this course is great preparation.
 
 If you are a UMD student and have questions about the course, please [email me](mailto:mcoblenz@umd.edu?subject=CMSC388W).
+
+Detailed schedule information is in the [syllabus]({{ site.url }}{{ site.baseurl }}/assets/pdf/CMSC388W-202101-syllabus.pdf).
