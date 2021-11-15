@@ -6,6 +6,8 @@ description:
 nav: true
 ---
 
+<a href="https://crates.io/crates/bronze_gc">Bronze</a> is a prototype garbage collector for Rust. The design and evaluation of Bronze are described in a <a href="https://arxiv.org/abs/2110.01098">paper</a>. In an experiment, I found that Bronze users completed a programming task that required complex aliasing in <em>a third</em> as much time as people using standard Rust (without Bronze).
+
 <a href="http://www.obsidian-lang.com">Obsidian</a> is a new programming language for blockchain smart contracts. I used user-centered design to integrate strong static safety features while maintaining usability.
 
 <a href="http://glacier.coblenz.us">Glacier</a> is an extension to Java that supports transitive class immutability. I <a href="https://ieeexplore.ieee.org/abstract/document/7985688/">showed</a> that Glacier can be used easily by Java programmers to detect accidental mutation of immutable structures.
