@@ -18,4 +18,6 @@ I study how to design programming languages to improve developers' productivity.
 
 I completed my Ph.D. in the [Carnegie Mellon University](http://www.cmu.edu/) [Computer Science Department](http://csd.cmu.edu). I was a student of [Jonathan Aldrich](http://www.cs.cmu.edu/~aldrich/) and [Brad A. Myers](http://www.cs.cmu.edu/~bam/). I also collaborated closely with [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/). 
 
-I spent ten years at [Apple](http://www.apple.com/), where I was a software engineer on the iWork team, focusing on [Numbers](http://www.apple.com/iwork/numbers/). I worked on versions for macOS, iOS, and iCloud. If you're still using some other spreadsheet app, give Numbers a try!
+I spent ten years at [Apple](http://www.apple.com/). For eight years, I was a full-time software engineer on the iWork team, focusing on [Numbers](http://www.apple.com/iwork/numbers/). I worked on versions for macOS, iOS, and iCloud. If you're still using some other spreadsheet app, give Numbers a try!
+
+I am on the 2022 academic job market! For convenience, I have posted my [CV](assets/CV.pdf), [research statement](assets/research.pdf), and [teaching statement](assets/teaching.pdf).
