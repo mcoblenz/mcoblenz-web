@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-#### Completed Projects
+#### completed projects
 
 <a href="https://crates.io/crates/bronze_gc">Bronze</a> is a prototype garbage collector for Rust. The design and evaluation of Bronze are described in a <a href="https://arxiv.org/abs/2110.01098">paper</a>. In an experiment, I found that Bronze users completed a programming task that required complex aliasing in <em>a third</em> as much time as people using standard Rust (without Bronze).
 
@@ -14,7 +14,7 @@ nav: true
 
 <a href="http://glacier.coblenz.us">Glacier</a> is an extension to Java that supports transitive class immutability. I <a href="https://ieeexplore.ieee.org/abstract/document/7985688/">showed</a> that Glacier can be used easily by Java programmers to detect accidental mutation of immutable structures.
 
-#### New projects
+#### new projects
 
 Rust's type system is generally considered to be <a href="https://www.usenix.org/conference/soups2021/presentation/fulton">hard to use</a>. Garbage collection helps in complex cases (see the Bronze project above), but what about for the simpler cases? I'm conducting an observational study of students who are taking a Rust programming class to identify approaches to make Rust easier to use and to make teaching it more effective.
 
