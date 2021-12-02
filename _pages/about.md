@@ -20,4 +20,4 @@ I completed my Ph.D. in the [Carnegie Mellon University](http://www.cmu.edu/) [C
 
 I spent ten years at [Apple](http://www.apple.com/). For eight years, I was a full-time software engineer on the iWork team, focusing on [Numbers](http://www.apple.com/iwork/numbers/). I worked on versions for macOS, iOS, and iCloud. If you're still using some other spreadsheet app, give Numbers a try!
 
-I am on the 2022 academic job market! For convenience, I have posted my [CV](assets/CV.pdf), [research statement](assets/research.pdf), and [teaching statement](assets/teaching.pdf).
+I am on the 2022 academic job market! For convenience, I have posted my [CV](assets/CV.pdf), [research statement](assets/research.pdf), [teaching statement](assets/teaching.pdf), and [diversity, equity, and inclusion statement](assets/diversity.pdf).
