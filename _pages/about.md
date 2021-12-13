@@ -35,3 +35,4 @@ I am on the 2022 academic job market! For convenience, I have posted my [CV](ass
 #### Upcoming events:
 * May 2022: Presenting journal-first (TOCHI) paper on PL design at CHI 2022.
 * May 2022: Presenting paper on Rust garbage collection at ICSE 2022.
+* June 2022: Attending Dagstuhl seminar on [Theories of Programming](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22231).
