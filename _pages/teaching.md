@@ -2,15 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Teaching
 nav: true
 nav_order: 5
+dropdown: true
+children:
+    - title: CSE 291I, Fall 2022
+      permalink: teaching/291I_fall2022
 ---
 
-# Upcoming courses
-### CSE 291I: Usability of Programming Languages 
+# Current courses
+### [CSE 291I: Usability of Programming Languages](teaching/291I_fall2022)
 
---
 
 # Previous courses
 #### CMSC388W: Special Topics in Computer Science: Usability of Programming Languages, Spring 2021
