@@ -8,7 +8,7 @@ nav_order: 5
 dropdown: true
 children:
     - title: CSE 291I, Fall 2022
-      permalink: teaching/291I_fall2022
+      permalink: teaching/291I_fall2022/
 ---
 
 # Current courses
