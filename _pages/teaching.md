@@ -25,6 +25,6 @@ In this special course, we will study how to *design* and *evaluate* the *usabil
 
  We will start by studying techniques for gathering insights about users, and then we will read and discuss papers investigating major questions in the area: how do types help programmers? How can we analyze a programming language or other notation for usability?
  
-This course is just the beginning. After taking the course, you might want to do your own language design and research projects, potentially leading to publication! I am looking for students to work with over the summer, and taking this course is great preparation.
+This course is just the beginning. After taking the course, you might want to do your own language design and research projects, potentially 508leading to publication! I am looking for students to work with over the summer, and taking this course is great preparation.
 
 Detailed schedule information is in the [syllabus]({{ site.url }}{{ site.baseurl }}/assets/pdf/CMSC388W-202101-syllabus.pdf).
