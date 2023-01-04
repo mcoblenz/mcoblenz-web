@@ -9,15 +9,17 @@ dropdown: true
 children:
     - title: CSE 291I, Fall 2022
       permalink: /teaching/291I_fall2022/
+    - title: CSE 210, Winter 2023
+      permalink: https://mcoblenz.github.io/CSE210/
 ---
 
 # Current courses
-### [CSE 291I: Usability of Programming Languages](teaching/291I_fall2022)
+### CSE 210
+[CSE 210](https://mcoblenz.github.io/CSE210/) is a graduate-level introduction to the principles of software engineering.
 
 
 # Previous courses
 #### CMSC388W: Special Topics in Computer Science: Usability of Programming Languages, Spring 2021
-
 
 Which is better: Python or Java? Is using a strongly typed language worth the hassle? Is it true that dynamically-typed languages are better for prototyping work, whereas statically-typed languages are better for deployed software? These questions all relate to the relationships between languages and people.
 
@@ -28,3 +30,5 @@ In this special course, we will study how to *design* and *evaluate* the *usabil
 This course is just the beginning. After taking the course, you might want to do your own language design and research projects, potentially 508leading to publication! I am looking for students to work with over the summer, and taking this course is great preparation.
 
 Detailed schedule information is in the [syllabus]({{ site.url }}{{ site.baseurl }}/assets/pdf/CMSC388W-202101-syllabus.pdf).
+
+#### [CSE 291I: Usability of Programming Languages](teaching/291I_fall2022)
