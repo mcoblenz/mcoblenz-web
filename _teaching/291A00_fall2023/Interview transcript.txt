@@ -1,0 +1,15 @@
+10:38:50 So, what kind of applications use your API? 
+  
+10:38:56 Generally the APIs that I would build would be kind of complementary to some sort of website, so it was the it would be like the primary way of browsing the data or interacting with the application would be to go to some www dot, whatever. 
+conta
+10:39:18 But if you wanted to access the data in bulk, or to integrate it with another website, I would generally make kind of a set of API calls available for people to do that … developers. 
+
+10:39:34 It was essentially like API development was discouraging people from scraping right because when they scrape your site, they cause a whole bunch of mayhem and if you put them on an API and make that API available to them you have more control over how what 
+
+10:39:48 kind of resources they use and like how, how much damage they do to your system potentiall.
+  
+I: So, okay, then how are the scenarios handling errors?
+
+P3: Okay. Um, so the thing that I've never developed a really strong opinion on is if the user sends you a bad input, like that line between sending a HTML failure status code or sending a 200, we received your request, but it makes no sense to me, you know, so 
+10:40:40 the 200 and then there's some sort of error message in the body of the API return. Like, I've done both, and I don't have a strong preference one way or the other. 
+10:40:55 Obviously, I don't want a scenario where the, the server, just never catches the error and like you just get an empty response or like just a 500 error. I want the errors that are returned back hen the API reaches an edge case to communicate something of value to the user, but I never quite developed a preference on whether that should be a 200 status code versus a more descriptive error status code. 

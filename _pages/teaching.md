@@ -7,10 +7,13 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-    - title: CSE 291I, Fall 2022
-      permalink: /teaching/291I_fall2022/
+    - title: CSE 291A00/190A00, Fall 2023
+      permalink: /teaching/291A00_fall2023/
     - title: CSE 210, Winter 2023
       permalink: https://mcoblenz.github.io/CSE210/
+    - title: CSE 291I, Fall 2022
+      permalink: /teaching/291I_fall2022/
+
 ---
 
 # Current courses
