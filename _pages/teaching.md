@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
+    - title: CSE 110, Fall 2024
+      permalink: https://mcoblenz.github.io/CSE110/
     - title: CSE 291A00/190A00, Fall 2023
       permalink: /teaching/291A00_fall2023/
     - title: CSE 210, Winter 2024
