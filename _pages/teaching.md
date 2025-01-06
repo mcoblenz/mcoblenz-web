@@ -11,7 +11,7 @@ children:
     permalink: https://mcoblenz.github.io/CSE110/
   - title: CSE 291B00/190B00, Fall 2024
     permalink: /teaching/291B00_fall2024/
-  - title: CSE 210, Winter 2024
+  - title: CSE 210, Winter 2025
     permalink: https://mcoblenz.github.io/CSE210/
 ---
 
