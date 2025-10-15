@@ -1,5 +1,24 @@
 ---
 ---
+@inproceedings{Omar2025:FAIR,
+  author    = {Omar, Cyrus and Coblenz, Michael and Madhavapeddy, Anil},
+  title     = {A FAIR Case for a Live Computational Commons},
+  year      = {2025},
+  isbn      = {9798400721618},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3759536.3763802},
+  acm       = {https://doi.org/10.1145/3759536.3763802},
+  doi       = {10.1145/3759536.3763802},
+  abstract  = {Scientists increasingly write software as part of large-scale collaborative workflows, but current tools make it difficult to follow FAIR principles (findability, accessibility, interoperability, reusability) and ensure reproducibility by default.   This paper proposes Fairground, a computational commons designed as a collaborative notebook system where thousands of scientific artifacts are authored, collected, and maintained together in executable form in a manner that is FAIR, reproducible, and live by default. Unlike existing platforms, Fairground notebooks can reference each other as libraries, forming a single planetary-scale live program executed by a distributed scheduler.   We describe the design of Fair Python, a purely functional subset of Python, and a foreign function interface for interoperating with existing code. Through three interleaved research tracks focusing on language design, interoperability, and distributed execution, we aim to create a next-generation collaborative scientific workflow system that makes best practices the path of least resistance.},
+  booktitle = {Proceedings of the 2nd ACM SIGPLAN International Workshop on Programming for the Planet},
+  pages     = {8–13},
+  numpages  = {6},
+  keywords  = {fair, functional, python, reproducible, reusability, scientific computing, visualization},
+  location  = {Singapore, Singapore},
+  series    = {PROPL '25},
+  abbr      = {PROPL}
+}
 
 @inproceedings{Aldrich2025:RestPi,
   author    = {Mark W. Aldrich and Kyla Levin and Michael Coblenz and Jeffrey Foster},
@@ -8,8 +27,11 @@
   booktitle = {PACMPL Issue OOPSLA},
   series    = {OOPSLA '25},
   abbr      = {OOPSLA},
-  note      = {To appear},
-  pdf       = {OOPSLA_2025_REST.pdf}
+  pdf       = {OOPSLA_2025_REST.pdf},
+  acm       = {https://doi.org/10.1145/3763055},
+  abstract  = {REST APIs form the backbone of modern interconnected systems by providing a language-agnostic communication interface. REST API specifications should clearly describe all response types, but automatically generating specifications is difficult with existing tools.
+               
+               We present REST𝜋, a type inference engine capable of automatically generating REST API specifications. The novel contribution of REST𝜋 is our use of path-sensitive type inference, which encodes symbolic path-constraints directly into a type system. This allows REST𝜋 to enumerate all response types by considering each distinct execution path through an endpoint implementation. We implement path-sensitive type inference for Ruby, a popular language used for REST API servers. We evaluate REST𝜋 by using it to infer types for 132 endpoints across 5 open-source REST API implementations without utilizing existing specifications or test suites. We find REST𝜋 performs type inference efficiently and produces types that are more precise and complete than those obtained via an HTTP proxy. Our results suggest that path-sensitivity is a key technique to enumerate distinct response types for REST endpoints.}
 }
 
 
@@ -21,8 +43,9 @@
   booktitle = {PACMPL Issue OOPSLA},
   series    = {OOPSLA '25},
   abbr      = {OOPSLA},
-  note      = {To appear},
-  pdf       = {OOPSLA_2025_Dafny.pdf}
+  pdf       = {OOPSLA_2025_Dafny.pdf},
+  acm       = {https://dl.acm.org/doi/10.1145/3763181},
+  abstract  = {Auto-active verifiers like Dafny aim to make formal methods accessible to non-expert users through SMT automation. However, despite the automation and other programmer-friendly features, they remain sparsely used in real-world software development, due to the significant effort required to apply them in practice. We interviewed 14 experienced Dafny users about their experiences using it in large-scale projects. We apply grounded theory to analyze the interviews to systematically identify how auto-active verification impacts software development, and to identify opportunities to simplify the use, and hence, expand the adoption of verification in software development.}
 }
 
 
@@ -33,8 +56,9 @@
   booktitle = {PACMPL Issue OOPSLA},
   series    = {OOPSLA '25},
   abbr      = {OOPSLA},
-  note      = {To appear},
-  pdf       = {OOPSLA_2025_PBT.pdf}
+  pdf       = {OOPSLA_2025_PBT.pdf},
+  acm       = {https://dl.acm.org/doi/10.1145/3764068},
+  abstract  = {Property-based testing (PBT) is a testing methodology with origins in the functional programming community. In recent years, PBT libraries have been developed for non-functional languages, including Python. However, to date, there is little evidence regarding how effective property-based tests are at finding bugs, and whether some kinds of property-based tests might be more effective than others. To gather this evidence, we conducted a corpus study of 426 Python programs that use Hypothesis, Python’s most popular library for PBT. We developed formal definitions for 12 categories of property-based test and implemented an intraprocedural static analysis that categorizes tests. Then, we evaluated the efficacy of test suites of 40 projects using mutation testing, and found that on average, each property-based test finds about 50 times as many mutations as the average unit test. We also identified the categories with the tests most effective at finding mutations, finding that tests that look for exceptions, that test inclusion in collections, and that check types are over 19 times more effective at finding mutations than other kinds of property-based tests. Finally, we conducted a parameter sweep study to assess the strength of property-based tests as a function of the number of random inputs generated, finding that 76% of mutations found were found within the first 20 inputs.}
 }
 
 @article{Ko2025:Retrospective,
