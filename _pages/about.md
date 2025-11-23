@@ -23,10 +23,12 @@ I completed my Ph.D. in the [Computer Science Department](http://csd.cmu.edu) at
 
 Before that, I spent eight years as a full-time software engineer on the iWork team at [Apple](http://www.apple.com/), focusing on [Numbers](http://www.apple.com/iwork/numbers/). I worked on versions for macOS, iOS, and iCloud. If you're still using some other spreadsheet app, give Numbers a try!
 
+_Due to funding constraints, I do not plan to recruit new Ph.D. students in 2025._
+
 Active projects include:
 
 - The _Kale_ project explores how we could make spreadsheets _safer_ for all kinds of users, avoiding large classes of spreadsheet bugs. At the same time, it aims to empower data scientists to leverage the power and convenience of spreadsheets in their analysis work.
-- Web sites expose services via _REST APIs_. These APIs are designed according to various guidelines, but no one knows how the guidelines actually relate to API quality! I'm working to understand which guidelines are worth following and develop tools to help developers follow guidelines that result in better API quality.
+- Websites expose services via _REST APIs_. These APIs are designed according to various guidelines, but no one knows how the guidelines actually relate to API quality! I'm working to understand which guidelines are worth following and develop tools to help developers follow guidelines that result in better API quality.
 - _Climate change_ is a major crisis of our time. I'm starting a new project to empower other kinds of scientists and engineers fight climate change by making it easier for them to write their programs. I'm also interested in how we might use tools from programming languages research to express, reason about, and enforce regulations that govern the environment.
 - _Debugging_ is central to software engineering, but I don't think we do a very good job of teaching how to debug. I'm interested in understanding how professional software engineers debug large programs and how we can teach students to work effectively on large codebases.
 - _Rust_ is a promising programming language that provides strong safety benefits, but it can be hard to learn. I'm interested in making it easier to learn and use.
