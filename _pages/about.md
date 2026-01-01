@@ -23,7 +23,7 @@ I completed my Ph.D. in the [Computer Science Department](http://csd.cmu.edu) at
 
 Before that, I spent eight years as a full-time software engineer on the iWork team at [Apple](http://www.apple.com/), focusing on [Numbers](http://www.apple.com/iwork/numbers/). I worked on versions for macOS, iOS, and iCloud. If you're still using some other spreadsheet app, give Numbers a try!
 
-_Due to funding constraints, I do not plan to recruit new Ph.D. students in 2025._
+_Due to funding constraints, I do not plan to recruit new Ph.D. students._
 
 Active projects include:
 
@@ -32,6 +32,6 @@ Active projects include:
 - _Climate change_ is a major crisis of our time. I'm starting a new project to empower other kinds of scientists and engineers fight climate change by making it easier for them to write their programs. I'm also interested in how we might use tools from programming languages research to express, reason about, and enforce regulations that govern the environment.
 - _Debugging_ is central to software engineering, but I don't think we do a very good job of teaching how to debug. I'm interested in understanding how professional software engineers debug large programs and how we can teach students to work effectively on large codebases.
 - _Rust_ is a promising programming language that provides strong safety benefits, but it can be hard to learn. I'm interested in making it easier to learn and use.
-- I'd like to develop _theories_ that explain how people think when they are programming. Why do people (including myself!) write buggy code? How can we deepen our understanding of human cognitiion in a way that helps us create better ways of thinking about software?
+- I'd like to develop _theories_ that explain how people think when they are programming. Why do people (including myself!) write buggy code? How can we deepen our understanding of human cognition in a way that helps us create better ways of thinking about software?
 
 For reference, I have posted my materials for my job search in 2022: [CV](assets/pdf/CV-jobsearch.pdf), [research statement](assets/pdf/research.pdf), [teaching statement](assets/pdf/teaching.pdf), and [diversity, equity, and inclusion statement](assets/pdf/diversity.pdf).
